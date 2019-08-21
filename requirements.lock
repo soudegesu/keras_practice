@@ -21,10 +21,16 @@ jsonschema==3.0.2
 jupyter==1.0.0
 jupyter-client==5.3.1
 jupyter-console==6.0.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
 jupyter-core==4.5.0
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
 Keras==2.2.4
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
+lxml==4.4.1
 Markdown==3.1.1
 MarkupSafe==1.1.1
 mistune==0.8.4

@@ -1,4 +1,6 @@
 keras
 jupyter
 tensorflow
+jupyter-contrib-nbextensions
+jupyter-nbextensions-configurator
 
